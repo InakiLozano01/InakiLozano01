@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- My name is Iñaki Fernando Lozano; from Tucumán, Argentina
 - 👨🏽‍💼 I’m currently working on Tribunal de Cuentas de la Provincia de Tucumán - IT Department and a Startup Project
 - 📖 I’m currently learning and working with:
     - Java and Spring REST APIs 
