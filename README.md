@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - My name is Iñaki Fernando Lozano; from Tucumán, Argentina
+- Im studying Computation Engineering in Universidad Nacional de Tucumán - FACET, currently in last year
 - 👨🏽‍💼 I’m currently working on Tribunal de Cuentas de la Provincia de Tucumán - IT Department and a Startup Project
 - 📖 I’m currently learning and working with:
     - Java and Spring REST APIs 
