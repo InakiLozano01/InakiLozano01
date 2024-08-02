@@ -5,8 +5,10 @@
 - 👨🏽‍💼 I’m currently working on Tribunal de Cuentas de la Provincia de Tucumán - IT Department and a Startup Project
 - 📖 I’m currently learning and working with:
     - Java and Spring REST APIs 
-    - HTML, CSS, Bootstrap 5, Javascript, Node.js 
-    - PHP 8, Codeigniter 4 and Apache2 
+    - HTML, CSS, Bootstrap 5, Javascript, Node.js
+    - Typescript and React
+    - PHP 8, Codeigniter 4 and Apache2
+    - Python and Flask framework
     - MySQL and PosgreSQL 
     - Ubuntu Server, Ubuntu, Windows 
     - Virtualization and Containers with Docker 
