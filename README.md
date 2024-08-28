@@ -51,9 +51,7 @@ My name is untypable in English :/ and my cat's name is Seib 🐈
 
 ---
 
-![Iñaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakitolozano&show_icons=true&hide_border=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kakitolozano.kakitolozano)
+![Iñaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=InakiLozano01&show_icons=true&hide_border=true)
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
