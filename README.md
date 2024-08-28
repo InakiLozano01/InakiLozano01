@@ -40,7 +40,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 
 ### Databases
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="50" width="120" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="50" width="120" />
 </p>
@@ -67,7 +67,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 
 ### AI Tools
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-%23121011.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="50" width="120" />
   <img src="https://img.shields.io/badge/ChatGPT-%2332A57F.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="50" width="120" />
   <img src="https://img.shields.io/badge/V0-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="V0" height="50" width="120" />
