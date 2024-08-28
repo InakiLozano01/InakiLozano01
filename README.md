@@ -58,8 +58,8 @@ My name is untypable in English :/ and my cat's name is Seib 🐈
 ### ⚡ GitHub Stats (Public Repositories)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InakiLozano0&show_icons=true&hide_border=true&theme=radical" alt="Iñaki's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InakiLozano0&layout=compact&theme=radical&hide_border=true" alt="Iñaki's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InakiLozano01&show_icons=true&hide_border=true&theme=radical" alt="Iñaki's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InakiLozano01&layout=compact&theme=radical&hide_border=true" alt="Iñaki's Top Languages" />
 </p>
 
 <p align="center">
