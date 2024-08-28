@@ -2,7 +2,7 @@
 
 I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my last year of studying Computation Engineering at Universidad Nacional de Tucumán - FACET. I work in the IT Department of the Tribunal de Cuentas de la Provincia de Tucumán and on a Startup Project.
 
----
+<hr style="border: 1px solid #f1f1f1;">
 
 ## 🌱 What I'm currently working on
 
@@ -12,7 +12,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 - **Python and Flask**
 - **Cloud Development and Deployment with Google Cloud**
 
----
+<hr style="border: 1px solid #f1f1f1;">
 
 ## 🛠 Technologies & Tools
 
@@ -76,8 +76,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
   <img src="https://img.shields.io/badge/Meta%20LLaMA-%230A66C2.svg?style=for-the-badge&logo=meta&logoColor=white" alt="Meta LLaMA" height="50" width="120" />
 </p>
 
-
----
+<hr style="border: 1px solid #f1f1f1;">
 
 ## 📫 How to reach me
 
@@ -87,13 +86,13 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="50" width="150" /></a>
 </p>
 
----
+<hr style="border: 1px solid #f1f1f1;">
 
 ## ⚡ Fun fact
 
 My name is untypable in English :/ and my cat's name is Seib 🐈
 
----
+<hr style="border: 1px solid #f1f1f1;">
 
 ## ⚡ GitHub Stats (Public Repositories)
 
@@ -102,9 +101,7 @@ My name is untypable in English :/ and my cat's name is Seib 🐈
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InakiLozano01&layout=compact&theme=radical&hide_border=true" alt="Iñaki's Top Languages" />
 </p>
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=InakiLozano01&theme=radical)
+<hr style="border: 1px solid #f1f1f1;">
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
