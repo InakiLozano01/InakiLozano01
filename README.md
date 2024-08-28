@@ -102,6 +102,10 @@ My name is untypable in English :/ and my cat's name is Seib 🐈
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InakiLozano01&layout=compact&theme=radical&hide_border=true" alt="Iñaki's Top Languages" />
 </p>
 
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=InakiLozano01&theme=radical)
+
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
