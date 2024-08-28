@@ -4,7 +4,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 
 ---
 
-### 🌱 What I'm currently working on
+## 🌱 What I'm currently working on
 
 - **Java and Spring REST APIs**
 - **Typescript and React**
@@ -14,9 +14,9 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 
 ---
 
-### 🛠 Technologies & Tools
+## 🛠 Technologies & Tools
 
-#### Languages
+### Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="50" width="100" />
@@ -26,7 +26,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" width="100" />
 </p>
 
-#### Frameworks
+### Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="50" width="100" />
@@ -36,7 +36,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="50" width="100" />
 </p>
 
-#### Tools
+### Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50" width="100" />
@@ -51,7 +51,7 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 
 ---
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 <p align="center">
   <a href="mailto:kakitolozano@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="50" width="150" /></a>
@@ -61,13 +61,13 @@ I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my las
 
 ---
 
-### ⚡ Fun fact
+## ⚡ Fun fact
 
 My name is untypable in English :/ and my cat's name is Seib 🐈
 
 ---
 
-### ⚡ GitHub Stats (Public Repositories)
+## ⚡ GitHub Stats (Public Repositories)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InakiLozano01&show_icons=true&hide_border=true&theme=radical" alt="Iñaki's GitHub stats" />
