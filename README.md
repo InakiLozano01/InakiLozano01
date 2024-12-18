@@ -94,12 +94,11 @@ My name is untypable in English :/ and my cat's name is Seib 🐈
 
 <hr style="border: 1px solid #f1f1f1;">
 
-## ⚡ GitHub Stats (Public Repositories)
+## ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-navy-eta-84.vercel.app/api?username=inakilozano01&show_icons=true&hide_border=true&theme=radical&show=prs_merged,prs_merged_percentage" alt="Iñaki's GitHub stats" />
   <img src="https://github-readme-stats-navy-eta-84.vercel.app/api/top-langs/?username=inakilozano01&layout=compact&theme=radical&hide_border=true" alt="Iñaki's Top Languages" />
-  <img src="
 </p>
 
 <hr style="border: 1px solid #f1f1f1;">
