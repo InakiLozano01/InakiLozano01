@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my last year of studying Computation Engineering at Universidad Nacional de Tucumán - FACET. I work in the IT Department of the Tribunal de Cuentas de la Provincia de Tucumán and on a Startup Project.
+I'm **Iñaki Fernando Lozano** from Tucumán, Argentina. I'm currently in my last year of studying Computation Engineering at Universidad Nacional de Tucumán - FACET. I work in the IT Department of the Tribunal de Cuentas de la Provincia de Tucumán.
 
 <hr style="border: 1px solid #f1f1f1;">
 
